@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+div {
+    background-color: gray;
+    color: aliceblue;
+    font-size: 1.8rem;
+}
+
+.botao {
+    background-color: black;
+    color: white;
+}
